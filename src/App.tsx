@@ -6,7 +6,7 @@ function App() {
     name: "Akarshan Gupta",
     title: "Full Stack Developer & AI/ML Engineer",
     bio: "Passionate developer with +2 years of experience building web applications. Specialized in React, AI/ML, and cloud technologies.",
-    resumeUrl: "/Akarshan.pdf",
+    resumeUrl: "https://github.com/AkarshanGupta/project/blob/main/Public/Akarshan.pdf",
     skills: {
       frontend: ["React", "Redux", "TypeScript", "Tailwind CSS", "Gradio"],
       backend: ["Node.js", "Python", "Go", "RESTful APIs", "FastAPI"],
