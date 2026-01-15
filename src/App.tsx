@@ -47,8 +47,8 @@ function App() {
       {
         title: "Legal Ease",
         description: "Developed a system which can process legal document and give simplified version of it.Built using gradio and google gemma 2B model to get result.",
-        link: "https://huggingface.co/spaces/akarshan11/legalease1",
-        github: "https://github.com/AkarshanGupta/legal-ease",
+        link: "https://github.com/AkarshanGupta/legal_rag",
+        github: "https://github.com/AkarshanGupta/legal_rag",
         tags: ["AI", "LLM", "Python"]
       },
       {
